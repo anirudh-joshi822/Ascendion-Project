@@ -4,3 +4,5 @@ G-Cash
 Backend java developer.
 <br>
 First project
+<br>
+Financial domain
